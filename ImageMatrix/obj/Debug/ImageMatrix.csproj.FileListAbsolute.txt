@@ -1,0 +1,9 @@
+D:\Development\C#\ImageMatrix\ImageMatrix\bin\Debug\ImageMatrix.exe.config
+D:\Development\C#\ImageMatrix\ImageMatrix\bin\Debug\ImageMatrix.exe
+D:\Development\C#\ImageMatrix\ImageMatrix\bin\Debug\ImageMatrix.pdb
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.csprojAssemblyReference.cache
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.Properties.Resources.resources
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.csproj.GenerateResource.cache
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.exe
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.pdb
+D:\Development\C#\ImageMatrix\ImageMatrix\obj\Debug\ImageMatrix.ImageMatrix.resources
